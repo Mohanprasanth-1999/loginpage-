@@ -1,0 +1,44 @@
+body{
+    margin:0;
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+form{
+    text-align: center;
+    border: 2px solid black;
+    height: 360px;
+    margin: 150px 440px 0 440px;
+}
+button{
+    border-radius: 3px;
+    background-color: white;
+    color:black;
+    padding:5px 19px 5px 19px;
+    cursor: pointer;
+    margin: 0 0 20px 0;
+}
+a{
+    text-decoration: none;
+}
+.b1{
+    padding: 0;
+}
+.b2{
+    padding: 0 0 20px 0;
+}
+.b3{
+    padding: 0;
+    font-style: normal;
+    text-align: left;
+}
+.b4{
+    color: brown;
+}
+.b5{
+    margin: 0;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    padding-left: 24px;
+}
